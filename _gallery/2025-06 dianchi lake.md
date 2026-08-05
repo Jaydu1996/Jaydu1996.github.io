@@ -7,5 +7,5 @@ excerpt: "Traveling to Dianchi Lake"
 ## Overview
 Stumbled upon a breathtaking green lawn in the park beside Dianchi Lake.
 
-{% include figure image_path="/assets/images/gallery/hike_01.jpg" alt="Coastal view" %}
+{% include figure image_path="/images/gallery/dianchi lake.jpg" alt="dianchi view" %}
 
