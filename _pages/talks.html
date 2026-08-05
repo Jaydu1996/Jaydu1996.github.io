@@ -1,25 +1,17 @@
 ---
-layout: single
-title: "Experience"
-permalink: /experience/
+layout: archive
+title: "Education and work"
+permalink: /talks/
 author_profile: true
-classes: wide
 ---
 
-## Education and Work
+{% if site.talkmap_link == true %}
 
-- **Bachelor of Science in Chemistry**
-  *Hunan University* | Sep. 2014 – Jun. 2018
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-- **Doctor of Science in Inorganic Chemistry**
-  *University of Science and Technology of China* | Sep. 2018 – Dec. 2024
-  My doctoral research focused on organic electrode materials, electrolyte systems and machine learning-assisted material screening.
+{% endif %}
 
-- **R&D Engineer, Electrolyte Development**
-  *Dongfeng Motor Corporation* | Dec. 2024 – Apr. 2026
-  Responsible for electrolyte formulation design, performance testing and industrial application verification.
-
-- **R&D Engineer, Electrolyte Development**
-  *CORNEX New Energy Co., Ltd.* | May. 2026 – Jun. 2026
-  Continued systematic optimization of liquid electrolyte systems toward practical battery applications.
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
   
