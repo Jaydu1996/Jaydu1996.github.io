@@ -1,0 +1,12 @@
+{% if item.date %}
+  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+  <span class="archive__item-date">{{ item.date | date: date_format }}</span>
+{% endif %}
+
+<h3 class="archive__item-title">
+  <a href="{{ item.url | relative_url }}" rel="permalink">{{ item.title }}</a>
+</h3>
+
+{% if item.excerpt %}
+<p class="archive__item-excerpt">{{ item.excerpt | markdownify | strip_html | truncate: 180 }}</p>
+{% endif %}
