@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at The Chinese University of Hong Kong, participating in the joint postdoctoral training programme jointly launched by The Chinese University of Hong Kong and The Chinese University of Hong Kong, Shenzhen. This programme aims to foster cross-border talent development and reinforce research collaboration within the Guangdong–Hong Kong–Macao Greater Bay Area. I work under the supervision of Prof. Xinglong Zhang.
+I am currently a Postdoctoral Researcher at The Chinese University of Hong Kong, participating in the joint postdoctoral training programme jointly launched by The Chinese University of Hong Kong and The Chinese University of Hong Kong, Shenzhen. This programme aims to foster cross-border talent development and reinforce research collaboration within the Guangdong–Hong Kong–Macao Greater Bay Area. I work under the supervision of Prof. Xinglong Zhang and Prof. Jianbin Li.
 
 I received my Doctor of Science degree in Inorganic Chemistry from the University of Science and Technology of China. During my doctoral studies, my research focused on artificial intelligence-assisted development of high-energy-density organic cathode materials for rechargeable batteries. I leveraged computational simulation and data-driven approaches to accelerate the rational design, screening and performance optimisation of organic electrode materials.
 
