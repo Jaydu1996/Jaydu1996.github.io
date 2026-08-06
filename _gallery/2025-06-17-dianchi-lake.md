@@ -1,0 +1,11 @@
+---
+title: "Traveling to Dianchi Lake"
+date: 2026-06-17
+excerpt: "Traveling to Dianchi Lake"
+---
+
+## Overview
+Stumbled upon a breathtaking green lawn in the park beside Dianchi Lake.
+
+{% include figure image_path="/assets/images/gallery/dianchi-lake.jpg" alt="Coastal view" %}
+
