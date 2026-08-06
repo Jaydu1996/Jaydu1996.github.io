@@ -5,7 +5,6 @@ title: "Gallery"
 author_profile: true
 ---
 
-{% comment %}
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for item in site.gallery reversed %}
@@ -14,8 +13,10 @@ author_profile: true
 <h2 id="{{ year | slugify }}" class="archive_subtitle">{{ year }}</h2>
 {% capture written_year %}{{ year }}{% endcapture %}
 {% endif %}
+{% comment %}
 {% include archive-single-gallery.html %}
-{% endfor %}
 {% endcomment %}
+{% endfor %}
+
 
 Gallery 测试页面
