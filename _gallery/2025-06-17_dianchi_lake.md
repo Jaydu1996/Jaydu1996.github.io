@@ -1,6 +1,6 @@
 ---
 title: "Traveling to Dianchi Lake"
-date: 2025-06
+date: 2025-06-17
 excerpt: "Traveling to Dianchi Lake"
 ---
 
